@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Alinhamento 3D",
+    "descricao": "O alinhamento é uma técnica que utiliza sensores com tecnologia 3D para corrigir o posicionamento do volante. Conte com os profissionais especializados da Veluplast para garantir a sua segurança com o serviço.",
+    "preco": 74.9,
+    "categoria_id": 1
+  },
+  {
+    "id": 2,
+    "nome": "Balanceamento",
+    "descricao": "O balanceamento tem como função diminuir o desgaste e as vibrações das rodas e rolamentos.Conte com a mecânica especializada da Veluplast para um serviço de qualidade no seu automóvel.",
+    "preco": 14.9,
+    "categoria_id": 1
+  },
+  {
+    "id": 3,
+    "nome": "Troca de óleo do motor",
+    "descricao": "Substituição do fluido para garantir melhor desempenho do motor, além de diminuir o desgaste precoce. É recomendado trocar o óleo entre 5 mil e 10 mil quilômetros rodados, conforme o fabricante.",
+    "preco": 74.9,
+    "categoria_id": 1
+  },
+  {
+    "id": 4,
+    "nome": "Suspensão e direção",
+    "descricao": "Manutenção e restauração de peças dos sistemas de suspensão e direção. Diagnóstico, análise, instalação e reparo do alinhamento de direção e do balanceamento estático e dinâmico de rodas.",
+    "preco": 69.0,
+    "categoria_id": 1
+  },
+  {
+    "id": 5,
+    "nome": "Injeção Eletrônica",
+    "descricao": "Diagnóstico, reparo e ação preventiva para todo o sistema de alimentação de combustível. Nossos serviços incluem limpeza de bicos e corpo de borboleta e avaliação de sensores/atuadores.",
+    "preco": 99.0,
+    "categoria_id": 1
+  },
+  {
+    "id": 6,
+    "nome": "Ar condicionado",
+    "descricao": "Manutenção preventiva ou ação corretiva para as peças do sistema de ar condicionado automotivo. São avaliados os seguintes itens: carga de gás, condensadores, evaporadores, mangueiras, válvulas, entre outros.",
+    "preco": 99.0,
+    "categoria_id": 1
+  },
+  {
+    "id": 7,
+    "nome": "Embreagem",
+    "descricao": "Manutenção do mecanismo de rotação do volante do motor e suas engrenagens. Os componentes analisados são: platô, disco, rolamento, sistema hidráulico e pedal de embreagem.",
+    "preco": 449.0,
+    "categoria_id": 1
+  },
+  {
+    "id": 8,
+    "nome": "Troca de fluído do cambio automático",
+    "descricao": "A substituição garante a redução de atrito e preservação de peças móveis.",
+    "preco": 239.0,
+    "categoria_id": 1
+  }
+]
