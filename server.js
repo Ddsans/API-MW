@@ -43,12 +43,12 @@ server.put('/servicos/:index', (req, res) => {
     return res.json(data.servicos);
 });
 
-// Deletar um curso
+// Deletar um item
 server.delete('/servicos/:index', (req, res) => {
     const { index } = req.params;
 
     data.splice(index, 1);
-    return res.json({ message: "O curso foi deletado" });
+    return res.json({ message: "O item foi deletado" });
 })
 
 
@@ -56,7 +56,7 @@ server.delete("/servicos/:index", (req, res) => {
     const item = item.deleteOne({ _id: req.params.id }, (err) => {
         if (err) return res.status(400).json({
             error: true,
-            message: "Error: Comida não foi apagada com sucesso!"
+            message: "Error: Item não foi apagada com sucesso!"
         });
         return res.json({
             error: false,
