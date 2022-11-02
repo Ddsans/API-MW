@@ -12,20 +12,20 @@ server.use(router);
 
 // CRUD --> Create, Read, Update, Delete
 
-// Retorna uma Refeição
+// Retorna um serviço
 server.get('/servicos/:index', (req, res) => {
     const { index } = req.params
 
     return res.json(data.servicos[index])
 });
 
-// Retornar todas as refeições
+// Retornar todos os serviços
 server.get('/servicos', (req, res) => {
 
     return res.json(data.servicos)
 });
 
-// Criar uma nova 
+// Criar um novo serviço
 server.post('/servicos', (req, res) => {
     const { name } = req.body;
     data.servicos.push(name);
@@ -33,7 +33,7 @@ server.post('/servicos', (req, res) => {
     return res.json(data.servicos);
 });
 
-// Atualizar um curso
+// Atualizar um serviço
 server.put('/servicos/:index', (req, res) => {
     const { index } = req.params;
     const { name } = req.body;
