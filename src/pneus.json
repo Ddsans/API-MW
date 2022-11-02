@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "PRIMACY 3",
+    "descricao": "O pneu Michelin Primacy 3 é 3x mais seguro. Possui frenagem até 3 metros antes em piso seco, reduzindo o risco de acidentes. Na pista molhada, freia até 4 metros antes. Além disso, possui maior aderência em curvas e em piso molhado, proporcionando ao condutor um controle da trajetória 12% superior à média de outros pneus do mercado.",
+    "preco": 799.9
+  },
+  {
+    "id": 2,
+    "nome": "PRIMACY 4",
+    "descricao": "O pneu Michelin Primacy 4 traz a melhor tecnologia, durabilidade e performance do pneu no piso molhado. É o mais seguro do primeiro ao último quilômetro.",
+    "preco": 499.9
+  },
+  {
+    "id": 3,
+    "nome": "PRIMACY SUV",
+    "descricao": "O Pneu Michelin Primacy SUV oferece muita segurança em qualquer condição climática. Conta com rodagem silenciosa para maior conforto dentro de um SUV, sem abrir mão da economia de combustível, do desgaste e do conforto.",
+    "preco": 1119.9
+  },
+  {
+    "id": 4,
+    "nome": "PILOT SPORT 3",
+    "descricao": "O Michelin Pilot Sport 3 é um excelente pneu ruas e estradas e com aderência máxima, principalmente em piso molhado. O modelo conta com tecnologia Anti-Surf System, que dissipa água com maior volume ao romper a película no chão, o que reduz o risco de aquaplanagens e mantém você no controle. O Michelin Pilot Sport 3 também possui a inovadora tecnologia Green Power em pneus esportivos.",
+    "preco": 999.9
+  },
+  {
+    "id": 5,
+    "nome": "PILOT SPORT 4",
+    "descricao": "O pneu Michelin Pilot Sport 4 oferece performance, controle e segurança. Está entre uma das melhores escolhas do segmento esportivo. O pneu permite que você freie antes em piso seco e molhado e proporciona maior durabilidade. Com ele, você tem uma condução mais esportiva, sem abrir mão da segurança.",
+    "preco": 1899.9
+  },
+  {
+    "id": 6,
+    "nome": "AGILIS 3",
+    "descricao": "O composto de borracha do Michelin Agilis 3 é mais resistente a danos laterais e desgaste originados ao rodar, pois utiliza componentes desenvolvidos no segmento de ônibus, o que aumenta a sua vida útil. Com tecnologia contra retenção de pedras, o modelo oferece ótimos resultados em economia, segurança e durabilidade para quem atravessa as cidades todos os dias. ",
+    "preco": 1049.9
+  }
+]

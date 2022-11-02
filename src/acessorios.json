@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Peliculas para vidros",
+    "descricao": "Modelos diferenciados e inovadores de proteção solar para o vidro do seu veículo. O insulfim reduz a temperatura interna do automóvel e blinda os motoristas contra possíveis atos de vandalismo.",
+    "preco": 179.9
+  },
+  {
+    "id": 2,
+    "nome": "Automação e alarmes",
+    "descricao": "Acessórios indicados para dar um upgrade no interior do seu veículo. Sistemas automatizados para vidros elétricos e controle do alarme. Garanta a sua segurança e a da sua família.",
+    "preco": 368.0
+  },
+  {
+    "id": 3,
+    "nome": "Trancas e travas",
+    "descricao": "Variedade de acessórios para bloqueio de volantes, rodas e pedais. Os dispositivos de segurança são ideais para garantir a proteção do seu carro em qualquer lugar, inibindo possíveis tentativas de furtos.",
+    "preco": 170.0
+  },
+  {
+    "id": 4,
+    "nome": "Sensores de estacionamento",
+    "descricao": "O acessório que está conquistando cada vez mais adeptos! O dispositivo de segurança detecta a distância de outros veículos ou obstáculos. Com alta tecnologia de ultrassom, o sensor proporciona facilidade na hora de estacionar.",
+    "preco": 143.0
+  },
+  {
+    "id": 5,
+    "nome": "Racks, bagageiros e longarinas",
+    "descricao": "Linha completa de racks e suportes para facilitar o transporte dos seus objetos a trabalho ou a lazer. Com alta capacidade de carga, os acessórios podem suportar pranchas de surf, bagageiro de teto e outros itens.",
+    "preco": 449.0
+  }
+]
