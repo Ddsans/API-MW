@@ -1,6 +1,6 @@
-const servicos = require("./src/servicos.json");
-const pneus = require("./src/pneus.json");
-const acessorios = require("./src/acessorios.json");
+const servicos = require("./data/servicos.json");
+const pneus = require("./data/pneus.json");
+const acessorios = require("./data/acessorios.json");
 
 module.exports = {
   servicos,
